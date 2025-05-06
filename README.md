@@ -22,7 +22,7 @@ cd Binary-Diffing-and-Marimo
 uv pip install marimo
 
 ## Launch the notebook
-marimo edit ./Binary Ninja and Mermaid.py
+marimo edit ./binary_ninja_mermaid.py
 
 The notebook will ask you to install the required dependencies via uv.
 
